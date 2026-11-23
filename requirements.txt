@@ -1,2 +1,3 @@
 streamlit
-libsql-experimental
+libsql
+pandas
